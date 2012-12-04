@@ -5,6 +5,8 @@
 
 //Charity Party
  var rsvpList= [];
+ 	console.log("There is a charity party today that my friends are invited to.");
+ 	console.log("Donations are expected from everyone. Let's see how we do.");
  
 
 //Constructor
@@ -139,6 +141,8 @@ rsvp2.timeRemaining(2)
 rsvp3.timeRemaining(2)
 rsvp4.timeRemaining(2)
 rsvp5.timeRemaining(2)
+
+console.log("The turnout was great! and my friends donated $1600 dollars!");
 
 
 
